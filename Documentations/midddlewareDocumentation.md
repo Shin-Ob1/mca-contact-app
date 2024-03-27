@@ -7,7 +7,7 @@ This middleware validates the JWT token sent in the request header.
 - **Usage:** Used in protected routes to authenticate users.
 - **Dependencies:** Requires express-async-handler and jsonwebtoken.
 - **Example:**
-***javascri***
+***javascript***
 ```
 const asyncHandler = require("express-async-handler");
 const jwt = require("jsonwebtoken");

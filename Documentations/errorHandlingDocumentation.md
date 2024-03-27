@@ -3,7 +3,7 @@
 ## errorHandler.js
 This middleware handles different types of errors and sends appropriate responses.
 
-- **Functionalit:** Handles validation errors, not found errors, unauthorized errors, forbidden errors, and server errors.
+- **Functionality:** Handles validation errors, not found errors, unauthorized errors, forbidden errors, and server errors.
 - **Usage:** Used as the last middleware in the application to catch and handle errors.
 - **Dependencies:** Requires constants.js.
 - **Example:**

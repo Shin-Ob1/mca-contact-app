@@ -13,7 +13,7 @@
   "password": "string"
 }
 ```
-- **Respons:**
+- **Response:**
 - Status: 201
 - Body:
 ***json***

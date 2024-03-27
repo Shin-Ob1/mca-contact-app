@@ -1,7 +1,7 @@
 # Dependency Documentation
 
 ## package.json
-- **Descriptio:** Contains information about the project's dependencies and scripts.
+- **Description:** Contains information about the project's dependencies and scripts.
 
 ## Dependencies:
 - **bcrypt:** ^5.1.1

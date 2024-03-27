@@ -5,7 +5,7 @@
 - **Method: POST**
 - **Description: Register a new user**
 - **Request Body:**
-***jso***
+***json***
 ```
 {
   "username": "string",

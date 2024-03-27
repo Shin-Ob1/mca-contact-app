@@ -3,7 +3,7 @@
 ## validateTokenHandler.js
 This middleware validates the JWT token sent in the request header.
 
-- **Functionalit:** Verifies the JWT token and attaches the decoded user information to the request object.
+- **Functionality:** Verifies the JWT token and attaches the decoded user information to the request object.
 - **Usage:** Used in protected routes to authenticate users.
 - **Dependencies:** Requires express-async-handler and jsonwebtoken.
 - **Example:**

@@ -1,6 +1,6 @@
 # Dependency Documentation
 
-## package.jso
+## package.json
 - **Description:** Contains information about the project's dependencies and scripts.
 
 ## Dependencies:

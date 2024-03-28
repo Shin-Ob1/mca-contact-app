@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 
-***bash***
+***bash code***
 ```
 git clone https://github.com/yourusername/mcacontacts-backend-api.git
 ```

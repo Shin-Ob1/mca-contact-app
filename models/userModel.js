@@ -11,7 +11,7 @@ const userSchema = mongoose.Schema({
         unique: [true, "Email address already registered"],
     },
     password: {
-        type: String,
+        type: Strin,
         required: [true, "Please add the user password"],
     },
 },

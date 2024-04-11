@@ -12,6 +12,7 @@ app.use(express.json());
 app.use("/api/contacts", require("./routes/contactRoutes"));
 app.use("/api/users", require("./routes/userRoutes"));
 app.use(errorHandler);
+app.use(require("cors")());
 app.get("/", (req, res) => {
     res.send("Hello World");
 });
